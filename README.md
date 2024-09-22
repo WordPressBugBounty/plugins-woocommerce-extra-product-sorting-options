@@ -1,0 +1,1 @@
+# plugins-woocommerce-extra-product-sorting-options
